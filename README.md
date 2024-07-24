@@ -1,6 +1,7 @@
 # Employee Creator App
 
 ## Demo & Snippets
+<img width="1446" alt="Employee" src="https://github.com/user-attachments/assets/a09cb86b-4dcd-4e5d-8c4e-96063fc41174">
 
 ## Requirements / Purpose
 
