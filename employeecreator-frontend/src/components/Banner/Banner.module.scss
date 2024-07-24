@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #b1ba8f;
+  gap: 10px;
+  height: 125px;
+
+  &__title {
+    font-family: "Poppins", "sans-serif";
+  }
+  &__logo {
+    height: 125px;
+  }
+}

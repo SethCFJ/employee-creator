@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  border-bottom: solid 1px lightgray;
+}
+
+.values {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+
+.text {
+  flex: 1;
+  padding: 10px;
+  text-align: center;
+  margin: 0;
+  font-family: "Poppins", "sans-serif";
+}
+
+.icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 20px;
+}
+
+.edit {
+  border-radius: 5px;
+}
+
+.delete {
+  color: rgb(228, 45, 45);
+}
+.button {
+  border: 0px;
+  background-color: white;
+  border-radius: 5px;
+  &:hover {
+    box-shadow: 2px 2px 2px darkgrey;
+    cursor: pointer;
+  }
+}

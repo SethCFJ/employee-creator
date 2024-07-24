@@ -1,0 +1,16 @@
+.dialog {
+  width: 600px;
+  margin-top: 20%;
+}
+.close {
+  background-color: white;
+  border: 0;
+
+  &__button {
+    font-size: 40px;
+    color: rgb(166, 90, 90);
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
